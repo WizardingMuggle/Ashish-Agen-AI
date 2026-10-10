@@ -1,0 +1,6 @@
+openai>=1.40        # OpenAI API: embeddings + chat completions
+tiktoken>=0.7       # OpenAI's tokenizer: count tokens exactly like the API does
+numpy>=1.26         # vector maths (cosine similarity, matrices)
+rich>=13.7          # colourful terminal logs, tables and panels
+python-dotenv>=1.0  # read OPENAI_API_KEY from the .env file
+pypdf>=4.0          # only needed if you ingest .pdf files
