@@ -1,0 +1,10 @@
+[
+  {"sku": "MTR-220", "name": "Brushless motor 2207", "category": "motor", "critical": true, "stock": 34, "reorder_point": 50, "unit_cost": 18.5, "supplier": "VoltWorks", "backup_supplier": "RotorPro", "lead_time_days": 12, "warehouse": "Austin"},
+  {"sku": "FC-900", "name": "Flight controller FC-900", "category": "flight controller", "critical": true, "stock": 41, "reorder_point": 30, "unit_cost": 96.0, "supplier": "AeroLogic", "backup_supplier": null, "lead_time_days": 25, "warehouse": "Berlin"},
+  {"sku": "BAT-6S", "name": "6S LiPo battery 5000mAh", "category": "battery", "critical": true, "stock": 12, "reorder_point": 40, "unit_cost": 74.0, "supplier": "CellCore", "backup_supplier": "PowerNest", "lead_time_days": 28, "warehouse": "Austin"},
+  {"sku": "PROP-5X", "name": "Carbon propeller 5 inch (pack of 4)", "category": "propeller", "critical": false, "stock": 220, "reorder_point": 100, "unit_cost": 6.2, "supplier": "RotorPro", "backup_supplier": null, "lead_time_days": 7, "warehouse": "Austin"},
+  {"sku": "CAM-4K", "name": "4K gimbal camera", "category": "camera", "critical": false, "stock": 9, "reorder_point": 10, "unit_cost": 310.0, "supplier": "OptiSky", "backup_supplier": null, "lead_time_days": 18, "warehouse": "Berlin"},
+  {"sku": "GPS-M10", "name": "GPS module M10", "category": "sensor", "critical": false, "stock": 75, "reorder_point": 40, "unit_cost": 22.0, "supplier": "AeroLogic", "backup_supplier": null, "lead_time_days": 10, "warehouse": "Pune"},
+  {"sku": "FRM-X8", "name": "X8 carbon frame", "category": "frame", "critical": false, "stock": 18, "reorder_point": 15, "unit_cost": 145.0, "supplier": "CarbonFab", "backup_supplier": null, "lead_time_days": 20, "warehouse": "Pune"},
+  {"sku": "ESC-40A", "name": "40A electronic speed controller", "category": "esc", "critical": false, "stock": 60, "reorder_point": 60, "unit_cost": 15.75, "supplier": "VoltWorks", "backup_supplier": null, "lead_time_days": 12, "warehouse": "Austin"}
+]

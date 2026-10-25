@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated at runtime
+.agent_state/
+traces/
+logs/
+workspace/*
+!workspace/.gitkeep

@@ -1,0 +1,10 @@
+[
+  {"id": "E101", "name": "Marcus Bell", "role": "Operations Lead", "team": "Operations", "office": "Austin", "manager_id": null, "laptop_purchased": "2024-02-12"},
+  {"id": "E102", "name": "Priya Natarajan", "role": "ML Engineer", "team": "Autonomy", "office": "Pune", "manager_id": "E105", "laptop_purchased": "2023-08-14"},
+  {"id": "E103", "name": "Jonas Weber", "role": "Hardware Engineer", "team": "Drones", "office": "Berlin", "manager_id": "E106", "laptop_purchased": "2022-11-03"},
+  {"id": "E104", "name": "Alicia Gomez", "role": "Purchasing Specialist", "team": "Operations", "office": "Austin", "manager_id": "E101", "laptop_purchased": "2025-01-20"},
+  {"id": "E105", "name": "Wei Chen", "role": "Head of Autonomy", "team": "Autonomy", "office": "Austin", "manager_id": null, "laptop_purchased": "2024-09-30"},
+  {"id": "E106", "name": "Lena Hoffmann", "role": "Head of Drones", "team": "Drones", "office": "Berlin", "manager_id": null, "laptop_purchased": "2023-04-18"},
+  {"id": "E107", "name": "Rahul Mehta", "role": "Simulation Engineer", "team": "Autonomy", "office": "Pune", "manager_id": "E105", "laptop_purchased": "2024-06-05"},
+  {"id": "E108", "name": "Sam Okafor", "role": "Support Technician", "team": "Operations", "office": "Austin", "manager_id": "E101", "laptop_purchased": "2025-07-01"}
+]

@@ -1,0 +1,3 @@
+openai>=1.40        # OpenAI API: chat completions with tool calling + structured outputs
+rich>=13.7          # colourful terminal logs, tables and panels
+python-dotenv>=1.0  # read OPENAI_API_KEY from the .env file
